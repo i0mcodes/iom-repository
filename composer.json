@@ -1,0 +1,14 @@
+{
+    "name": "iom/repositories",
+    "description": "use repositories to deal with eloquent",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iomcodes",
+            "email": "iom.codes@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

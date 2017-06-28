@@ -1,0 +1,12 @@
+{
+    "name": "iom/repositories",
+    "description": "this is a package laravel to use repository with eloquent",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Iom\\Repositories\\": "src/"
+        }
+    },
+  "minimum-stability": "dev",
+  "prefer-stable" : true
+}
